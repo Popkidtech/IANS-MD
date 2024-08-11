@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ 𝙹𝙾𝙴𝙻 𝙼𝙳 𝚆𝙰 𝙱𝙾𝚃 ❐
+┏❏ IAN MD WA BOT ❐
 ┃ ⿻Mode: ${mode}
 ┃ ⿻User : ${s.OWNER_NAME}
 ┃ ⿻Library : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━━┓
-┣𝚓𝚘𝚎𝚕 𝚖𝚍 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜
+┣IAN MD COMMANDS 
 ┗━━━━━━━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━━┓
-️┣❏𝚓𝚘𝚎𝚕 𝚖𝚍 𝚟 𝟸.𝟶.𝟶
-┣❏𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 𝚓𝚘𝚎𝚕 𝚖𝚍
+️┣❏IAN MD V5
+┣❏KEEP USING IAN ND
 ┗━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━┓
-┃𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝚓𝚘𝚎𝚕_𝚝𝚎𝚌𝚑
+┃POWERED BY IAN MD
 ┗━━━━━━━━━━━━━━━━┛\n
 
 
