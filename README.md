@@ -1,10 +1,10 @@
-  *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐉𝐎𝐄𝐋 𝐌𝐃 𝐕 𝟐. 𝟓 .𝟎*
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'M+JOEL+MD+CREATED+BY+JOEL_.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
- <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/179fe48ce0290c09d75a6.jpg">
+  *𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 IANS MD V5*
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'M+IAN+MD+CREATED+BY+POPKID_.&heart;++;Self-taught+Back-Created+By,;IMTARACHA+IAN+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l">
+ <img alt="IANS BUG BOT" height="300" src="https://telegra.ph/file/76337c73fe48a2aa4466b.jpg">
   
 </h1> 
-<p align="center">𝐢𝐧𝐭𝐨𝐝𝐮𝐜𝐢𝐧𝐠 <b>joel md</b>, 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐬𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐛𝐨𝐭 </p>
+<p align="center">𝐢𝐧𝐭𝐨𝐝𝐮𝐜𝐢𝐧𝐠 <b>IANS MD</b>, 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐬𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐛𝐨𝐭 </p>
 
 
     
@@ -19,7 +19,7 @@
 
 
 
-  *𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐉𝐎𝐄𝐋 𝐌𝐃 𝐕 𝟐.𝟓.𝟎*
+  *𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 IANS MD V5*
 
  
 
@@ -27,7 +27,7 @@
   *𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏* 
 
 
-<a href="https://github.com/joeljamestech/JOEL-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<a href="https://github.com/Popkidtech/IANS-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
 
 **star✨ my repo if you like this bot🤖**
 
@@ -59,7 +59,7 @@
 
 
 <a
-      href='https://dashboard.heroku.com/new?template=https://github.com/joeljamestech/JOEL-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+      href='https://dashboard.heroku.com/new?template=https://github.com/Popkidtech/IANS-MD/tree/main' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
@@ -85,23 +85,23 @@
 
 <table>
   <tr>
-    <td>𝐣𝐨𝐞𝐥_𝐭𝐞𝐜𝐡</td>
-    <td>𝐣𝐨𝐞 𝐰𝐚 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</td>
+    <td>IAN TECH</td>
+    <td>IANS 𝐰𝐚 𝐜𝐡𝐚𝐧𝐧𝐞𝐥</td>
   </tr>
   <tr>
-    <td><a href="https://wa.link/e9lbut"><img src="https://telegra.ph/file/179fe48ce0290c09d75a6.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M"><img src="https://telegra.ph/file/074fda0c9cc17c420cf3d.jpg" width="180"</td>
+    <td><a href="https://wa.link/e9lbut"><img src="https://telegra.ph/file/76337c73fe48a2aa4466b.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img src="https://telegra.ph/file/76337c73fe48a2aa4466b.jpg" width="180"</td>
   </tr>
 </table>
 
 
- *©joeltech inc*
+ *©IANS TECH inc*
 
 
 
 
 
 
-   *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 𝐣𝐨𝐞𝐥 𝐦𝐝 𝐰𝐚 𝐛𝐨𝐭*
+   *𝐤𝐞𝐞𝐩 𝐮𝐬𝐢𝐧𝐠 IAN 𝐦𝐝 𝐰𝐚 𝐛𝐨𝐭*
 
    
