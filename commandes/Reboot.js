@@ -14,12 +14,12 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("This command is for owner or joel_it");
+    return repondre("This command is for owner or ian");
   }
 
   const {exec}=require("child_process")
 
-    repondre("JOEL-MD bot Restarting ⏳");
+    repondre("IANS-MD bot Restarting ⏳");
 
   exec("pm2 restart all");
   
