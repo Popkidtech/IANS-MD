@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-zokou({ nomCom: "owner", categorie: "General", reaction: "🇹🇿" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "owner", categorie: "General", reaction: "🇰🇪" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -51,16 +51,16 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🇹🇿" }, async (de
   }
 });
 
-zokou({ nomCom: "dev", categorie: "General", reaction: "✨" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "dev", categorie: "General", reaction: "🦋" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "joel", numero: "255714595078" },
-      { nom: "joel_it", numero: "255781144539" },
+      { nom: "ian", numero: "254111385747" },
+      { nom: "popkid", numero: "254732297194" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "🕷️ welcome to joel md! here is the dev :\n\n";
+    let message = "🕷️ welcome to ians md! here is the dev :\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l`},{quoted :ms})
 
 })
 
@@ -103,12 +103,12 @@ zokou({ nomCom: "developer", categorie: "General", reaction: "🕷️" }, async 
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "joel_it🕷️", numero: "255714595078" },
-      { nom: "best coder", numero: "255781144539" },
+      { nom: "ian🕷️", numero: "254111385747" },
+      { nom: "popkid", numero: "254732297194" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "🇹🇿 *Welcome to joel md* here is the developer numbers:\n\n";
+    let message = "🇰🇪 *Welcome to ians md* here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
