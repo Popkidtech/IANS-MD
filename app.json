@@ -1,9 +1,9 @@
 {
-  "name":"IANS MD",
-  "description":"A WhatsApp bot developed by IAN TARACHA any problem wa.me  :"254111385747, 254732297194",
+  "name":"IANS-MD",
+  "description":"A WhatsApp bot developed by IAN TARACHA any problem wa.me  :254111385747,254732297194",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/76337c73fe48a2aa4466b.jpg",
-  "repository":"https://github.com/Popkidtech/IANS-MD",
+  "repository":"https://github.com/Popkidtech/HORROR-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/76337c73fe48a2aa4466b.jpg",
+      "value":"https://telegra.ph/file/1fdd87f6182dac91694eb.jpg,https://telegra.ph/file/77c997f862f05eeb716d7.jpg",
       "required":false
        
      },
@@ -53,7 +53,7 @@
     },
   "HEROKU_APP_NAME": { 
     "description": "insert your heroku APP NAME ",
-     "value":"IAN TECH",
+     "value":"IANO",
      "required" :true
     }  
 	  ,
@@ -69,7 +69,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "IAN-TECH"
+    "value": "IANO"
   },
     "NUMERO_OWNER":
   {
