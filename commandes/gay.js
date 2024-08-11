@@ -78,7 +78,7 @@ else {
      }
  } else {
 
-    if(!superUser) { repondre ("𝕁𝕆𝔼𝕃 𝕄𝔻 𝕃𝔸𝕋𝔼𝕊𝕋 𝕍𝕀𝕊𝕀𝕆ℕ") ; return};
+    if(!superUser) { repondre ("IANS MD NEW VERSION") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
