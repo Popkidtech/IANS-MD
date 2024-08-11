@@ -1,15 +1,15 @@
 hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## **POPKID**-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
+## **IANS**-𝐌𝐃 V5.0.0 𝐋𝐀𝐓𝐄𝐒𝐓
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 **POPKID TECH**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+POPKID+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=IANS+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+POPKID+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![POPKID KE](https://telegra.ph/file/15b6bb18be046cceae5c7.jpg?lenght=50width=50)](https://github.com/Popkid-ke)|
+| [![POPKID KE](https://telegra.ph/file/76337c73fe48a2aa4466b.jpg?lenght=50width=50)](https://github.com/Popkidtech)|
 |----|
 
 <p align="center">
@@ -38,7 +38,7 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/popkid-ke/popkid-ke/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK POPKID-MD REPO" width="150"></a>
+<a href="https://github.com/popkidtech/IANS-MD/fork"><img src="https://img.shields.io/badge/Fork%20Popkid-MD%20Repo-blue" alt="FORK IANS-MD REPO" width="150"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
