@@ -66,26 +66,26 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖
+ POWERED BY IAN TARACHA
 ┃   Mode: ${mode}
 ┃   User : ${s.OWNER_NAME}
 ┃
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖
- 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙤𝙚𝙡 𝙠𝙖𝙣𝙜'𝙤𝙢𝙖\n\n`;
+ powered by ian Taracha
+ powered by Ian Taracha\n\n`;
 
 
     
 
 let menuMsg = `
 ┏━━━━━━━━━━━━━━┓
-┣❏joel md bot 
-┣❏©joel _it🕷️
+┣❏IAN MD BOT 
+┣❏©IAN POPKID🕷️
 ┗━━━━━━━━━━━━━━┛\n
 
 
 
 
-𒈒joel md cmds𒈒
+𒈒IAN MD COMMANDS𒈒
 `;
 
 
@@ -112,13 +112,13 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏joel md bot 
-┣❏© by joel tech 
+️┣❏IAN MD BOT 
+┣❏© BY IAN TECH
 ┗━━━━━━━━━━━━━━┛\n
 
 
 ┏━━━━━━━━━━━━━━┓
-┃regards to joel_it
+┃REGARDS TO POPKID
 ┗━━━━━━━━━━━━━━┛\n
 
 
