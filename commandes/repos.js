@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/joeljamestech/JOEL-MD';
-  const img = 'https://telegra.ph/file/07a6fca837d4d974afb00.jpg';
+  const githubRepo = 'https://api.github.com/repos/Popkidtech/IANS-MD';
+  const img = 'https://telegra.ph/file/76337c73fe48a2aa4466b.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,13 +21,13 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `┏❏ ⌜ JOEL-MD REPO ⌟ ❐
+      const gitdata = `┏❏ ⌜ IANS-MD REPO ⌟ ❐
 ┃🗼 *REPOSITORY:* ${data.html_url}
 ┃✨ *STARS:* ${repoInfo.stars}
 ┃🧧 *FORKS:* ${repoInfo.forks}
 ┃📅 *RELEASE DATE:* ${releaseDate}
 ┃🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-┃👨‍💻 *OWNER* :joel_tech
+┃👨‍💻 *OWNER* :IAN TARACHA
 ┗❏`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
