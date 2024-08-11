@@ -62,7 +62,7 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 (No BAN. 100% safe) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Popkidtech/IANS-MD&template=hhttps://github.com/Popkidtech-ke/IANS-MD.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Popkidtech/IANS-MD&template=hhttps://github.com/Popkidtech/IANS-MD.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
