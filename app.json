@@ -1,9 +1,9 @@
 {
-  "name":"JOEL-MD",
-  "description":"A WhatsApp bot developed by joel_tech any problem wa.me  :255714595078,255767570963,255781144539",
+  "name":"IANS MD",
+  "description":"A WhatsApp bot developed by IAN TARACHA any problem wa.me  :"254111385747, 254732297194",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/1fdd87f6182dac91694eb.jpg",
-  "repository":"https://github.com/joeljamestech/JOEL-MD",
+  "logo":"https://telegra.ph/file/76337c73fe48a2aa4466b.jpg",
+  "repository":"https://github.com/Popkidtech/IANS-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/1fdd87f6182dac91694eb.jpg,https://telegra.ph/file/77c997f862f05eeb716d7.jpg",
+      "value":"https://telegra.ph/file/76337c73fe48a2aa4466b.jpg",
       "required":false
        
      },
@@ -53,7 +53,7 @@
     },
   "HEROKU_APP_NAME": { 
     "description": "insert your heroku APP NAME ",
-     "value":"joel v 2.5.0",
+     "value":"IAN TECH",
      "required" :true
     }  
 	  ,
@@ -69,14 +69,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "joel_tech"
+    "value": "IAN-TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of Tanzania '255')",
     "required":false,
-    "value": "255714595078"
+    "value": "254111385747"
   },
     "WARN_COUNT":
   {
