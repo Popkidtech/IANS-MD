@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/popkid-ke/popkod-ke';
+  const githubRepo = 'https://api.github.com/repos/Popkidtech/IANS-MD';
   const img = 'https://telegra.ph/file/76337c73fe48a2aa4466b.jpg';
 
   try {
