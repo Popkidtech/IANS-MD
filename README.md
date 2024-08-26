@@ -8,6 +8,10 @@ hi<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=IANS+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+POPKID+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
+POPKID BUGS
+<div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 
 | [![POPKID KE](https://telegra.ph/file/76337c73fe48a2aa4466b.jpg?lenght=50width=50)](https://github.com/Popkidtech)|
 |----|
